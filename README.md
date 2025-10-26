@@ -71,3 +71,6 @@ export default defineConfig([
   },
 ])
 ```
+
+## Model 
+Downloaded from: "Pikachu" (https://skfb.ly/orFM9) by Raghav Gupta is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
