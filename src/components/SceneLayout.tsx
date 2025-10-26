@@ -1,6 +1,7 @@
 import CubeScene from "./CubeScene";
 import PikachuScene from "./PikachuScene";
 import SphereScene from "./SphereScene";
+import './SceneLayout.css';
 
 interface SceneData {
     id: string;
