@@ -33,10 +33,6 @@
   --font-mono: 'JetBrains Mono', 'Fira Code', monospace;
 }
 
-html {
-  scroll-behavior: smooth;
-}
-
 body {
   font-family: var(--font-primary);
   background: var(--primary-bg);
